@@ -1,0 +1,6 @@
+framework module Pods_demoDrink_demoDrinkUITests {
+  umbrella header "Pods-demoDrink-demoDrinkUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
